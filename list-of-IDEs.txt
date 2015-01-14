@@ -1,0 +1,6 @@
+For all the software and web developers out there, the right tool for the job can really make all the difference. For some, a basic text editor like vim, emacs or even a simple notepad-like app usually gets the job done. However, Integrated Development Environment suites (IDE) tend to offer a richer code editing experience that can include extras like wizards, debug mode and color coding, just to name a few. To that end, here are five IDEs that are worth considering for coding professionals.
+1. Microsoft Visual Studio 2012 Pro
+2. Oracle Netbeans 7
+3. Eclipse
+4. Code::Blocks
+5. Aptana Studio 3
